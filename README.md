@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Akram Mahboub 👋
 
-<!--
-**akram-mahboub/akram-mahboub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Who am I?
 
-Here are some ideas to get you started:
+I'm a developer passionate about building web and mobile applications.
+I enjoy learning new technologies and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Full-Stack Developer
+* 🎓 Computer Science Student
+* 🌍 Based in Algeria
+
+---
+
+## 🚧 What I'm Currently Working On
+
+* Improving my **backend development** skills
+* Learning more about **React and Node.js**
+* Exploring **networking and servers**
+
+---
+
+## 🛠️ Tools & Technologies
+
+### Languages
+
+* JavaScript
+* SQL
+* HTML / CSS
+
+### Frameworks & Libraries
+
+* React
+* Node.js
+* Express
+* Flutter
+* Python (Flask)
+
+### Databases
+
+* MongoDB
+* Firebase
+* PostgreSQL
+
+### Tools
+
+* Git & GitHub
+* Docker
+* Postman
+* Figma
+
+---
+
+## 📚 Currently Learning
+
+* System Design
+* Docker & Containers
+* Mobile Development
+
+---
+
+## 🎯 Goals
+
+* Build impactful software
+* Contribute to open source
+* Work on large-scale applications
+* Continuously improve my skills
+
+---
+
+## 📫 How to Reach Me
+
+* GitHub: https://github.com/akram-mahboub
+* Email: [mahboub_akram.fs@univ-boumerdes.dz](mailto:mahboub_akram.fs@univ-boumerdes.dz)
