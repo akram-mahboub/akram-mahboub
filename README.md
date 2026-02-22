@@ -1,9 +1,6 @@
 # Hi, I'm Akram Mahboub 👋
-
-## 👨‍💻 Who am I?
 I'm a developer passionate about building web and mobile applications.
 I enjoy learning new technologies and turning ideas into real projects.
-
 * 💻 Full-Stack Developer
 * 🎓 Computer Science Student
 
