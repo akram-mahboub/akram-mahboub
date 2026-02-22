@@ -15,11 +15,6 @@ I enjoy learning new technologies and turning ideas into real projects.
 * Improving my **backend development** skills
 * Learning more about **React and Node.js**
 * Exploring **networking and servers**
-## 📚 Currently Learning
-
-* System Design
-* Docker & Containers
-* Mobile Development
 
 ## 🎯 Goals
 
@@ -29,6 +24,5 @@ I enjoy learning new technologies and turning ideas into real projects.
 * Continuously improve my skills
 
 ## 📫 How to Reach Me
-
-* GitHub: https://github.com/akram-mahboub
 * Email: [mahboub_akram.fs@univ-boumerdes.dz](mailto:mahboub_akram.fs@univ-boumerdes.dz)
+* Linkedin : https://www.linkedin.com/in/akram-mahboub
