@@ -9,54 +9,17 @@ I enjoy learning new technologies and turning ideas into real projects.
 * 🎓 Computer Science Student
 * 🌍 Based in Algeria
 
----
 
 ## 🚧 What I'm Currently Working On
 
 * Improving my **backend development** skills
 * Learning more about **React and Node.js**
 * Exploring **networking and servers**
-
----
-
-## 🛠️ Tools & Technologies
-
-### Languages
-
-* JavaScript
-* SQL
-* HTML / CSS
-
-### Frameworks & Libraries
-
-* React
-* Node.js
-* Express
-* Flutter
-* Python (Flask)
-
-### Databases
-
-* MongoDB
-* Firebase
-* PostgreSQL
-
-### Tools
-
-* Git & GitHub
-* Docker
-* Postman
-* Figma
-
----
-
 ## 📚 Currently Learning
 
 * System Design
 * Docker & Containers
 * Mobile Development
-
----
 
 ## 🎯 Goals
 
@@ -64,8 +27,6 @@ I enjoy learning new technologies and turning ideas into real projects.
 * Contribute to open source
 * Work on large-scale applications
 * Continuously improve my skills
-
----
 
 ## 📫 How to Reach Me
 
