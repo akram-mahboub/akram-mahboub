@@ -16,4 +16,3 @@ I enjoy learning new technologies and turning ideas into real projects.
 
 ## 📫 How to Reach Me
 * Email: [mahboub_akram.fs@univ-boumerdes.dz](mailto:mahboub_akram.fs@univ-boumerdes.dz)
-* Linkedin : https://www.linkedin.com/in/akram-mahboub
