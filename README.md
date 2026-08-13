@@ -8,7 +8,7 @@ I'm a full-stack developer with a focus on **applied AI** and **systems engineer
 
 ## 🚧 What I'm Currently Working On
 
-- Deepening my **backend development** (Node.js, Flask, REST APIs)
+- Deepening my knowledge in **System Architecture & Distributed Systems** (Scalability, Microservices, API Design)
 - Building **AI/ML projects** and strengthening my deep learning foundations
 - Exploring **networking, servers, and DevOps** (Docker, deployment)
 
